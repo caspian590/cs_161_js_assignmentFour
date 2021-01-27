@@ -20,22 +20,21 @@ public class exerciseOne {
 	        {
 	            System.out.print(i+" ");
 	    
-	        }
-		        int f=1;
-		        System.out.println();
-		        System.out.println();
-				//print statement
-				System.out.println("While:");
-
-				//loop to print 1 to 10.
-				while(f<=10)	
-				{
-					System.out.print(f+" ");
-					f++;
-			   
-	
+	    }
+		    int f=1;
+	    System.out.println();
+	   	System.out.println();
+				
+	   	System.out.println("While:");
+ 
+			
+			while(f<=10)	
+		{
+			System.out.print(f+" ");
+		    	f++;
+			 
 		   
-				}
+    	}
 		   
 		
 		 System.out.println();  
